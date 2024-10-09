@@ -1,10 +1,10 @@
-# <<(`Hello World`)>>
+# <<(`Hello World!`)>>
 
-I'm Ratish. I'm into fullstack development, bots and some applied ML and you can see some of the things I've worked on before here on my profile. Also recently made my first major open source contributions as part of GSoC 2024, for Arviz, a Python package for visualizing Bayesian models. 
+I'm Ratish. Welcome to my Github. Currently trying my hand at fullstack development and applied AI/ML. In the past, I've built bots, particularly for NFT/Web3 purposes, and I also did some proper open source work on a Python package (ArviZ) recently for GSoC 2024. I definitely wish to contribute to more open source and collaborative projects in the future as well. 
 
 **Currently Learning More About/Want to Know More About**: 
-- AI-augmented coding patterns and all (productivity enhancements here seem potentially so massive)
-- The auxiliary Devops-y tech productionized apps need (CI/CD, containerization, queues and in memory caches, cloud provider tools for scaling, sharding- that sort of stuff)- realized I don't know much about these yet recently but should! 
+- AI-augmented coding patterns and all, and working with AI agents (productivity enhancements here are potentially so massive, and it likely will become the norm in the next few years)
+- All the auxiliary Devops-y tech productionized apps need (CI/CD, containerization, queues and in memory caches, cloud provider tools for scaling, sharding- that sort of stuff)- realized I don't know enough about these fundamental for software engineering concepts _yet_ but should!
 
 **Tech Stack**: (so far)
 - Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=black)
