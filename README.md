@@ -1,8 +1,8 @@
 # <<(`Hello World!`)>>
 
-I'm Ratish. Welcome to my Github. I'm currently focusing on fullstack and applied AI/ML software engineering and development. In the past, I've done freelance work building bots for the NFT/Web3 community, and I also did some open source work on a Python package (ArviZ) recently for GSoC 2024. I plan on contributing to more open source and collaborative projects in the future as well, particularly impactful and interesting ones working in and around AI, the fundamental sciences, and Web3. 
+I'm Ratish. Welcome to my Github. At the moment I'm focusing on full stack and applied AI/ML software engineering and development. In the past, I've done freelance work building bots for the NFT/Web3 community, and I also did some open source work on a Python package (ArviZ) recently for GSoC 2024. 
 
-**Currently Learning More About/Want to Know More About**: 
+**Currently Learning More About**: 
 - AI-augmented coding patterns and methodology- including working effectively with AI agents (productivity enhancements here are potentially so massive, and it likely will become the norm in the next few years)
 - ML/AI-engineering techniques and best practices- actually using AI/ML for features in fullstack apps, LLM usage techniques like fine-tuning, RAG, prompt-chaining, MoE, etc. Making full use of these kinds of emerging intelligence wherever possible and advantageous. 
 - The auxiliary Devops-y tech productionized apps need (CI/CD, containerization, queues and in memory caches, cloud provider tools for scaling, database sharding, the intricacies of a backend web server- that sort of stuff). These are of course fundamental software engineering concepts, especially for anything pushed to production- necessary to scale products smoothly. 
