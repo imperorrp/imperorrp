@@ -11,7 +11,7 @@ I'm Ratish! Welcome to my Github. I specialize in full stack and applied AI/ML s
 
 **Selected Works/Projects**: 
 
-- [Crustdata API Support Bot](https://crustdata-chatbot-ratish.vercel.app/): Next.js + Vercel AI SDK based AI chat support agent. Ask any questions about Crustdata's API. Uses RAG (with Crustdata API docs) to answer questions. Also has an authentication system and stores past chat histories. Repository private for now. 
+- [Crustdata API Support Bot](https://crustdata-chatbot-ratish.vercel.app/): Next.js + Vercel AI SDK based AI chat support agent. Ask any questions about Crustdata's API. Uses RAG (with Crustdata API docs) to answer questions. Also has an authentication system and stores past chat histories. [Repository](https://github.com/imperorrp/crustdata-support-chatbot-ai)
 
 - [BOPE-GPT](https://bope-gpt.vercel.app/): Next.js+ FastAPI based web app to orchestrate and perform the BOPE process (Bayesian Optimization with Preference Exploration) for multi objective optimization tasks. A prompted large language model is used as a preference selector and pareto front + gaussian process visualizations can be viewed. Also uses MongoDB, Pytorch, Cohere API, and Plotly. [Repository](https://github.com/imperorrp/BOPE-GPT)
 
