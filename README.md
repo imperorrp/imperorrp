@@ -9,7 +9,9 @@ I'm Ratish. I specialize in full stack and applied AI/ML software engineering an
 **Open Source Contributions**:
 - Google Summer of Code 2024: [I worked on Arviz](https://github.com/imperorrp/gsoc-2024) - a Python package and project for exploratory analysis of Bayesian (probabilistic programming) models. More details on [this blog post](https://blog.ratishpanda.me/blog/gsoc-journey/)
 
-**Some Works/Projects**: 
+**Quick Links to Some Works/Projects**: 
+
+- [Bubble Galaxies](https://www.bubblegalaxies.com/) - (Repo private for now): A React-Three-Fiber + GLSL based galaxy generation engine. Procedural, deterministic (seed-based) generation- thousands of stars, 80+ tweakable parameters, unique star systems and planets. Much more cuztomizability, game features, etc. are currently WIP. 
 
 - [Crustdata API Support Bot](https://crustdata-chatbot-ratish.vercel.app/) - ([Repo](https://github.com/imperorrp/crustdata-support-chatbot-ai)): A Next.js + Vercel AI SDK based API chat support agent web app. Ask any questions about Crustdata's API. Uses RAG (with Crustdata API documentation) with a Supabase vector database to answer questions grounded on relevant API endpoint docs. Also has an authentication system and stores past chat histories for logged in users in a Vercel Postgresql database.
   
