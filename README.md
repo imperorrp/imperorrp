@@ -1,4 +1,4 @@
-# <<(`Hello World!`)>>
+# >>`About`
 
 I'm Ratish. I specialize in full stack and applied AI/ML software engineering and development. In the past, I've done freelance work building bots for NFT/Web3 orgs, built some personal projects, and contributed open source code as part of GSoC 2024. 
 
@@ -11,13 +11,15 @@ I'm Ratish. I specialize in full stack and applied AI/ML software engineering an
 
 **Quick Links to Some Works/Projects**: 
 
-- [Bubble Galaxies](https://www.bubblegalaxies.com/) - (Repo private for now): A React-Three-Fiber + GLSL based galaxy generation engine. Procedural, deterministic (seed-based) generation- thousands of stars, 80+ tweakable parameters, unique star systems and planets. Much more cuztomizability, game features, etc. are currently WIP. 
+- [Bubble Galaxies](https://www.bubblegalaxies.com/): A React-Three-Fiber + GLSL based galaxy generation engine for upcoming sandbox space strategy+RPGs. Procedural, deterministic (seed-based) generation- thousands of stars, 80+ tweakable parameters, unique star systems and planets. Much more cuztomizability, game features, etc. are currently WIP. 
 
-- [Crustdata API Support Bot](https://crustdata-chatbot-ratish.vercel.app/) - ([Repo](https://github.com/imperorrp/crustdata-support-chatbot-ai)): A Next.js + Vercel AI SDK based API chat support agent web app. Ask any questions about Crustdata's API. Uses RAG (with Crustdata API documentation) with a Supabase vector database to answer questions grounded on relevant API endpoint docs. Also has an authentication system and stores past chat histories for logged in users in a Vercel Postgresql database.
+- [Sorcery UI](https://www.sorceryui.com/): Browser based, MCP integrated live visual editor for React and Tailwind based UI components. Import existing components or use Sorcery UI's AI Design Extraction mode to create Shadcn-like React components mocks you can refine further.
   
 - [BOPE-GPT](https://bope-gpt.vercel.app/) - ([Repo](https://github.com/imperorrp/BOPE-GPT)): A Next.js+ FastAPI based web app and dashboard to orchestrate and perform the BOPE process (Bayesian Optimization with Preference Exploration) for multi objective optimization tasks. A prompted large language model is used as a "preference selector" and pareto front + gaussian process visualizations can be viewed. Uses MongoDB, Pytorch, Cohere API, and Plotly. BOPE is a technique introduced in a 2022 paper by researchers at Meta and Cornell University and some work done automating one of this technique's steps with an LLM in a 2024 hackathon I was part of was extended to produce this.
 
--	[Poiesis Ex Machina](https://poiesis-ex-machina.vercel.app) - ([Repo](https://github.com/imperorrp/poiesis-ex-machina)): Astro + React + Svelte serverless AI poetry generator with a cyberpunk/tech-noir aesthetic- a play on the concept of AI as humanity's "collective unconscious". Enter a prompt, pick an archetype (Eristics, Jungian, Dungeons and Dragons) and generate relevant poetry and art. Uses Together.ai to run image and text-to-image generation models. 
+-	[Poiesis Ex Machina](https://poiesis-ex-machina.vercel.app) - ([Repo](https://github.com/imperorrp/poiesis-ex-machina)): Astro + React + Svelte serverless AI poetry generator with a cyberpunk/tech-noir aesthetic- a play on the concept of AI as humanity's "collective unconscious". Enter a prompt, pick an archetype (Eristics, Jungian, Dungeons and Dragons) and generate relevant poetry and art. Uses Together.ai to run image and text-to-image generation models.
+
+- [Crustdata API Support Bot](https://crustdata-chatbot-ratish.vercel.app/) - ([Repo](https://github.com/imperorrp/crustdata-support-chatbot-ai)): A Next.js + Vercel AI SDK based API chat support agent web app. Ask any questions about Crustdata's API. Uses RAG (with Crustdata API documentation) with a Supabase vector database to answer questions grounded on relevant API endpoint docs. Also has an authentication system and stores past chat histories for logged in users in a Vercel Postgresql database.
 
 - Web3 + Custom Bots - ([Monorepo](https://github.com/imperorrp/UsefulBots)) : Monorepo portfolio of old bots I made for freelance clients. Built with Python and Javascript and several 3rd party APIs and API wrappers, for Discord, Twitter, Telegram. 
 
