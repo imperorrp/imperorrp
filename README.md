@@ -7,7 +7,7 @@ I'm Ratish. I specialize in full stack and applied AI/ML software engineering an
 - Frameworks: ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi), ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flate&logo=poetry&logoColor=0B3D8D), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black), ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flate&logo=astro&logoColor=white), ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white), ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 **Open Source Contributions**:
-- Google Summer of Code 2024: [I worked on Arviz](https://github.com/imperorrp/gsoc-2024) - a Python package and project for exploratory analysis of Bayesian (probabilistic programming) models. More details on [this blog post](https://blog.ratishpanda.me/blog/gsoc-journey/)
+- Google Summer of Code 2024: [I worked on Arviz](https://github.com/imperorrp/gsoc-2024) - a Python package and project for exploratory analysis of Bayesian (probabilistic programming) models. More details on [this blog post](https://blog.ratishpanda.in/blog/gsoc-journey/)
 
 **Quick Links to Some Works/Projects**: 
 
